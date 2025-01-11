@@ -16,7 +16,7 @@ poke-weakness-calc is a simple tool to help you calculate type advantages in Pok
    - Open a terminal and navigate to the directory where the files are located.
    - Execute the Python file using:
      ```bash
-     python your_file_name.py
+     python path/to/poke-weakness-calc.py
      ```
 
 4. **Enter Pokémon Names**
