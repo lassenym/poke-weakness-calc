@@ -148,6 +148,6 @@ if __name__ == "__main__":
         elif pokemon not in get_all_pokemon():
             print(f"{RED}Pokemon unknown.{RESET} Did you mean {BLUE}{suggest_pokemon_name(pokemon)}{RESET}?")
         else:
-            print(f"\n======{pokemon.upper()}======\n")
+            print(f"\n======{BLUE}{pokemon.upper()}{RESET}======\n")
             print_types(get_multiplier(get_poketype(pokemon)))
             print(f"\n{"="*len(pokemon)}===========\n")
