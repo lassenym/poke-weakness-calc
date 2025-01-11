@@ -26,4 +26,5 @@ poke-weakness-calc is a simple tool to help you calculate type advantages in Pok
 
 ---
 
-![image](https://github.com/user-attachments/assets/971afae4-b2e9-44ee-9a11-5d388a2e3b6f)
+![Untitled](https://github.com/user-attachments/assets/6bd67ae3-9f9c-49aa-894d-c0cb4998d0a2)
+
